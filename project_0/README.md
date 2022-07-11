@@ -14,6 +14,7 @@
 
 [6. Conclusions](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#conclusions)
 
+----
 
 ### Project description
 Guess the number guessed by computer for minimal number of attempts
