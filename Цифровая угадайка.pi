@@ -1,0 +1,50 @@
+from random import *
+
+def is_valid(x, fig):
+    if not x.isdigit():
+        return False
+    if 1 <= int(x) <= fig:
+        return True
+    else:
+        return False
+
+
+def play():
+    while True:
+        print('Введите верхнюю границу')
+        y = input()
+        if is_valid(y, 100) is True:
+            y = int(y)
+            break    
+    print(f'Введите число от 1 до {y}')
+    counter = 1
+    n = randint(1, y)
+    while True:
+        x = input()
+        if is_valid(x, y) is False:
+            print(f'А может быть все-таки введем целое число от 1 до {y}?')
+            continue
+        x = int(x)            
+        if x < n:
+            print('Ваше число меньше загаданного, попробуйте еще разок')
+            counter += 1
+            continue
+        elif x == n:
+            print(f'Вы угадали за {counter} попыток, поздравляем!','\n')
+            break
+        elif x > n:
+            print('Ваше число больше загаданного, попробуйте еще разок')
+            counter += 1
+            continue    
+    
+
+print('Добро пожаловать в числовую угадайку')
+play()
+while True:
+    print('Хотите попробовать еще разок?')
+    s = input().upper()
+    if s == 'ДА':
+        play()
+    if s == 'НЕТ':
+        break
+print('Спасибо, что играли в числовую угадайку. Еще увидимся...')
