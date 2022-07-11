@@ -4,28 +4,28 @@
 ## Table of contents
 [1. Project Description](#project-description) 
 
-[2. Case study](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#case-study)
+[2. Case study](#case-study)
 
-[3. Data brief information](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#data-brief-information)
+[3. Data brief information](#data-brief-information)
 
-[4. Project stages](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#project-stages)
+[4. Project stages](#project-stages)
 
-[5. Results](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#results)
+[5. Results](#results)
 
-[6. Conclusions](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#conclusions)
+[6. Conclusions](#conclusions)
 
 ----
 
 ### Project description
 Guess the number guessed by computer for minimal number of attempts
 
-:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#table-of-contents)
+:arrow_up:[back to contents](#table-of-contents)
 
 
 ### Case study
 We need to create a computer programm which will guess the number for minimal number of attempts.
 
-:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#table-of-contents)
+:arrow_up:[back to contents](#table-of-contents)
 
 **Competition rules:**
 - Computer guesses int number in range 0 - 100 and we need to figure out what the number is. "Figure out" means that we need to create a computer programm which will guess the number for minimal number of attempts.
@@ -39,13 +39,13 @@ Results to be evaluated by average number of guess attempts for 1000 iterations
 
 Learning how to create good python code
 
-:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#table-of-contents)
+:arrow_up:[back to contents](#table-of-contents)
 ### Project stages
 
-:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#table-of-contents)
+:arrow_up:[back to contents](#table-of-contents)
 ### Results
 
-:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#table-of-contents)
+:arrow_up:[back to contents](#table-of-contents)
 ### Conclusions
 
-:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#table-of-contents)
+:arrow_up:[back to contents](#table-of-contents)
