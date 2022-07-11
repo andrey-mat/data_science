@@ -38,10 +38,13 @@ Results to be evaluated by average number of guess attempts for 1000 iterations
 
 Learning how to create good python code
 
+:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#Table-of-contents)
 ### Project stages
 
-
+:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#Table-of-contents)
 ### Results
 
-
+:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#Table-of-contents)
 ### Conclusions
+
+:arrow_up:[back to contents](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#Table-of-contents)
