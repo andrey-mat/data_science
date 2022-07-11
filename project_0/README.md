@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-[1. Project Description](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#Project-description) 
+[1. Project Description](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#Project%20description) 
 
 [2. Case study](https://github.com/andrey-mat/data_science/tree/main/project_0/README.md#Case-study)
 
