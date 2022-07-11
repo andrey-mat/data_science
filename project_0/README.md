@@ -40,6 +40,11 @@ Results to be evaluated by average number of guess attempts for 1000 iterations
 Learning how to create good python code
 
 :arrow_up:[back to contents](#table-of-contents)
+
+### Data brief information
+
+:arrow_up:[back to contents](#table-of-contents)
+
 ### Project stages
 
 :arrow_up:[back to contents](#table-of-contents)
