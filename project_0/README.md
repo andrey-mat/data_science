@@ -2,29 +2,22 @@
 
 
 ## Table of contents
-[1. Project Description](#project-description) 
-
-[2. Case study](#case-study)
-
-[3. Data brief information](#data-brief-information)
-
-[4. Project stages](#project-stages)
-
-[5. Results](#results)
-
-[6. Conclusions](#conclusions)
+[1. Project Description](#project-description)<br>
+[2. Case study](#case-study)<br>
+[3. Data brief information](#data-brief-information)<br>
+[4. Project stages](#project-stages)<br>
+[5. Results](#results)<br>
+[6. Conclusions](#conclusions)<br>
 
 ----
 
 ### Project description
-Guess the number guessed by computer for minimal number of attempts
-
+Guess the number guessed by computer for minimal number of attempts<br>
 :arrow_up:[back to contents](#table-of-contents)
 
 
 ### Case study
-We need to create a computer programm which will guess the number for minimal number of attempts.
-
+We need to create a computer programm which will guess the number for minimal number of attempts.<br>
 :arrow_up:[back to contents](#table-of-contents)
 
 **Competition rules:**
@@ -38,19 +31,16 @@ Results to be evaluated by average number of guess attempts for 1000 iterations
 **What do we practice?**
 
 Learning how to create good python code
+<br>:arrow_up:[back to contents](#table-of-contents)
 
+### Data brief information<br>
 :arrow_up:[back to contents](#table-of-contents)
 
-### Data brief information
-
+### Project stages<br>
 :arrow_up:[back to contents](#table-of-contents)
 
-### Project stages
-
+### Results<br>
 :arrow_up:[back to contents](#table-of-contents)
-### Results
 
-:arrow_up:[back to contents](#table-of-contents)
-### Conclusions
-
+### Conclusions<br>
 :arrow_up:[back to contents](#table-of-contents)
