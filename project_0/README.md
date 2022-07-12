@@ -34,7 +34,8 @@ Results to be evaluated by average number of guess attempts for 1000 iterations
 - Git implementation
 - Learning how to use VS code
 - Learning Jupiter notebook
-<br>:arrow_up:[back to contents](#table-of-contents)
+
+:arrow_up:[back to contents](#table-of-contents)
 
 ### Data brief information<br>
 Data is gathering using *random* functions to the list with 1000 positions<br>
