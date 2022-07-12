@@ -30,17 +30,26 @@ Results to be evaluated by average number of guess attempts for 1000 iterations
 
 **What do we practice?**
 
-Learning how to create good python code
+- Learning how to create good python code
+- Git implementation
+- Learning how to use VS code
+- Learning Jupiter notebook
 <br>:arrow_up:[back to contents](#table-of-contents)
 
 ### Data brief information<br>
+Data is gathering using *random* functions to the list with 1000 positions<br>
 :arrow_up:[back to contents](#table-of-contents)
 
 ### Project stages<br>
+Ver. 1 - Program requests user to make guessing
+Ver. 2 - Program uses random method to guess
+Ver. 3 - Program uses *smart* method to guess<br>
 :arrow_up:[back to contents](#table-of-contents)
 
 ### Results<br>
+Algorith to guess the number with average number of attempts less than 20 was found<br>
 :arrow_up:[back to contents](#table-of-contents)
 
 ### Conclusions<br>
+Obviously, smart way of doing things is always quite better then just picking up the random numbers<br>
 :arrow_up:[back to contents](#table-of-contents)
