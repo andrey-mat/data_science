@@ -42,8 +42,8 @@ Data is gathering using *random* functions to the list with 1000 positions<br>
 :arrow_up:[back to contents](#table-of-contents)
 
 ### Project stages<br>
-Ver. 1 - Program requests user to make guessing
-Ver. 2 - Program uses random method to guess
+Ver. 1 - Program requests user to make guessing<br>
+Ver. 2 - Program uses random method to guess<br>
 Ver. 3 - Program uses *smart* method to guess<br>
 :arrow_up:[back to contents](#table-of-contents)
 
